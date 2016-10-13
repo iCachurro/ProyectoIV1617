@@ -26,4 +26,7 @@ El proyecto va a usar una maquina virtual para poder usar SQL, un servicio de lo
 
 1. Crear la maquina virtual
 2. Levantar apache y generar la base da datos en mySQL
-3. Crear el programa bot para dar respuesta a las peticiones
+3. Crear el programa bot para dar respuesta a las peticiones.
+4. Desplegar el sistema
+5. Pruebas
+6. Corrección de errores
